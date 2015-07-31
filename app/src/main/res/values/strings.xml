@@ -2,6 +2,7 @@
     <string name="app_name">Socialnights</string>
     <string name="title_activity_main">Socialnights</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
     <string name="action_settings">Settings</string>
 </resources>
