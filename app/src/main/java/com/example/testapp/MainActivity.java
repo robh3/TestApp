@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         setSupportActionBar(toolbar);
         toolbar.setNavigationIcon(R.drawable.socialnights_icon);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
-        toolbar.setLogo(R.drawable.socialnights_icon);
+        toolbar.setLogo(R.drawable.ic_socialnights);
         getSupportActionBar().setDisplayHomeAsUpEnabled(false);
 
         drawerFragment = (FragmentDrawer)
