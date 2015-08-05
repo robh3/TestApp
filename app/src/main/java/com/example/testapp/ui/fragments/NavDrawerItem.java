@@ -1,4 +1,4 @@
-package com.example.testapp.model;
+package com.example.testapp.ui.fragments;
 
 /**
  * Created by mrrob_000 on 8/4/2015.

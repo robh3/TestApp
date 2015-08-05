@@ -1,8 +1,12 @@
-package com.example.testapp;
+package com.example.testapp.ui.adapters;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
+
+import com.example.testapp.ui.fragments.Tab1;
+import com.example.testapp.ui.fragments.Tab2;
+import com.example.testapp.ui.fragments.Tab3;
 
 /**
  * Created by mrrob_000 on 7/30/2015.

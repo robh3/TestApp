@@ -1,4 +1,4 @@
-package com.example.testapp;
+package com.example.testapp.ui.activities;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
@@ -9,7 +9,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.example.testapp.activity.FragmentDrawer;
+import com.example.testapp.R;
+import com.example.testapp.ui.fragments.FragmentDrawer;
+import com.example.testapp.lib.SlidingTabLayout;
+import com.example.testapp.ui.adapters.ViewPagerAdapter;
 
 
 public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {

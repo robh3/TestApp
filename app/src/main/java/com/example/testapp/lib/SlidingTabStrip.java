@@ -1,4 +1,4 @@
-package com.example.testapp;
+package com.example.testapp.lib;
 
 /**
  * Created by mrrob_000 on 7/30/2015.

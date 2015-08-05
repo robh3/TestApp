@@ -1,4 +1,4 @@
-package com.example.testapp.activity;
+package com.example.testapp.ui.fragments;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -15,8 +15,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.testapp.R;
-import com.example.testapp.adapter.NavigationDrawerAdapter;
-import com.example.testapp.model.NavDrawerItem;
 
 import java.util.ArrayList;
 import java.util.List;

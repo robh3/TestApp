@@ -1,4 +1,4 @@
-package com.example.testapp.adapter;
+package com.example.testapp.ui.fragments;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.testapp.R;
-import com.example.testapp.model.NavDrawerItem;
 
 import java.util.Collections;
 import java.util.List;
